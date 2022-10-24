@@ -19,5 +19,5 @@
         android:id="@+id/foodJokeFragment"
         android:name="com.example.foody.FoodJokeFragment"
         android:label="fragment_food_joke"
-        tools:layout="@layout/Joke" />
+        tools:layout="@layout/fragment_food_joke" />
 </navigation>
